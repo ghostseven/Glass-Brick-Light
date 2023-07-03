@@ -1,2 +1,3 @@
 # Glass-Brick-Light
-Glass Brick Smart Light 
+
+This contains the OpenSCAD and STL files for the base of my Glass Brick Light.  More details here. 
